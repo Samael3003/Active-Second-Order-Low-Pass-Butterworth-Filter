@@ -1,5 +1,9 @@
 # Active-Second-Order-Low-Pass-Butterworth-Filter
 
+**a Project by, Sahil Sawant (12111257)**
+
+**Guided by, Prof. Mrunal Shidore**
+
 ## Introduction - 
 
 Butterworth filters are characterized by the property that the magnitude characteristic is maximally flat at the origin, and there are no ‘ripples’, either in the pass band or in the stop band. The sequence of topics covered is as follows:
